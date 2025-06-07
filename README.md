@@ -1,5 +1,4 @@
-# photography_website
-miniproject related css and html (revising the concepts and implementating on )
+
 # Responsive Sidebar Menu
 
 This project features a responsive sidebar menu implemented using **HTML** and **CSS**, with **Font Awesome** for icons. It's designed to be a clean and functional navigation component that you can easily integrate into your web projects.
